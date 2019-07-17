@@ -1,0 +1,5 @@
+Security;
+GNTX;
+INTC;
+AMZN;
+TSLA;
